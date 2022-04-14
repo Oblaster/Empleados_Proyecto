@@ -1,0 +1,76 @@
+﻿@model IEnumerable<Proyecto_Empleados.Empleados>
+
+@{
+    ViewBag.Title = "Listado de Empleados ";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Listado de Empleados</h2>
+
+<p>
+    @Html.ActionLink("Nuevo Empleado", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            <p>Nombre</p>
+
+            @*@Html.DisplayNameFor(model => model.Nombre)*@
+        </th>
+        <th>
+            <p>Apellido Paterno</p>
+
+            @*@Html.DisplayNameFor(model => model.ApPaterno)*@
+        </th>
+        <th>
+            <p>Apellido Materno</p>
+
+            @* @Html.DisplayNameFor(model => model.ApMaterno)*@
+        </th>
+        <th>
+            <p>Fecha de Nacimiento</p>
+
+            @*@Html.DisplayNameFor(model => model.FecNac)*@
+        </th>
+        <th>
+            <p>Sueldo</p>
+
+            @*@Html.DisplayNameFor(model => model.Sueldo)*@
+        </th>
+        <th>
+            <p>Departamento</p>
+
+            @*@Html.DisplayNameFor(model => model.Departamentos.Descripcion)*@
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ApPaterno)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ApMaterno)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FecNac)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Sueldo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Departamentos.Descripcion)
+        </td>
+        <td>
+            @Html.ActionLink("Modificar", "Edit", new { id=item.Clave_Emp }) |
+            @Html.ActionLink("Detalles", "Details", new { id=item.Clave_Emp }) |
+            @Html.ActionLink("Borrar", "Delete", new { id=item.Clave_Emp })
+        </td>
+    </tr>
+}
+
+</table>

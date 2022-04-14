@@ -1,0 +1,87 @@
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\Proyecto Empleados.dll.config
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\Proyecto Empleados.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\Proyecto Empleados.pdb
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\csc.exe
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\csc.exe.config
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\csc.rsp
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\csi.exe
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\csi.exe.config
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\csi.rsp
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\Microsoft.Managed.Core.targets
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.AppContext.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.Collections.Immutable.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.Console.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.IO.Compression.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.IO.FileSystem.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.IO.Pipes.AccessControl.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.IO.Pipes.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.Security.AccessControl.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.Security.Claims.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.ValueTuple.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.Xml.XPath.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\vbc.exe
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\vbc.exe.config
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\vbc.rsp
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\VBCSCompiler.exe
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\roslyn\VBCSCompiler.exe.config
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\Antlr3.Runtime.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\Microsoft.Web.Infrastructure.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\Newtonsoft.Json.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\System.Web.Helpers.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\System.Web.Mvc.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\System.Web.Optimization.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\System.Web.Razor.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\System.Web.WebPages.Deployment.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\System.Web.WebPages.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\System.Web.WebPages.Razor.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\WebGrease.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\System.Web.Helpers.xml
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\System.Web.Mvc.xml
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\System.Web.Optimization.xml
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\System.Web.Razor.xml
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\System.Web.WebPages.xml
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\System.Web.WebPages.Deployment.xml
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\System.Web.WebPages.Razor.xml
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\Newtonsoft.Json.xml
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\Antlr3.Runtime.pdb
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\es\System.Web.Helpers.resources.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\es\System.Web.Mvc.resources.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\es\System.Web.Optimization.resources.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\es\System.Web.Razor.resources.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\es\System.Web.WebPages.resources.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\obj\Debug\Proyecto Empleados.csprojAssemblyReference.cache
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\obj\Debug\Proyecto Empleados.csproj.CoreCompileInputs.cache
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\obj\Debug\Proyecto Empleados.csproj.CopyComplete
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\obj\Debug\Proyecto Empleados.dll
+c:\users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\obj\Debug\Proyecto Empleados.pdb
+C:\Users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\EntityFramework.dll
+C:\Users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\EntityFramework.SqlServer.dll
+C:\Users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\EntityFramework.xml
+C:\Users\grmm_\source\repos\Proyecto Empleados\Proyecto Empleados\bin\EntityFramework.SqlServer.xml

@@ -1,0 +1,67 @@
+﻿@model Proyecto_Empleados.Empleados
+
+@{
+    ViewBag.Title = "Detalles";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Detalles Usuario</h2>
+
+<div>
+    <h4>Se muestran aspectos de el usuario </h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt>
+            <p>Apellido Paterno</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ApPaterno)
+        </dd>
+
+        <dt>
+            <p>Apellido Materno</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ApMaterno)
+        </dd>
+
+        <dt>
+            <p>Fecha de Nacimiento</p>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FecNac)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Sueldo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Sueldo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Departamentos.Descripcion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Departamentos.Descripcion)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.Clave_Emp }) |
+    @Html.ActionLink("Regresar", "Index")
+</p>
